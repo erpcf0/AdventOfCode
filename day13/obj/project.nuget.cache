@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIjBPVQZd3mCxnoOUWPaiE2WyE0shnGXl6eJ2pwzLAXPABbyyqib7z/bdZhrTfcIvmseIdlbMKhYHP0t5b5TZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ERLAND\\Documents\\CODIGO\\AdventOfCode\\day13\\day13.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERLAND\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

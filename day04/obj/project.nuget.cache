@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RV6Yi7j2UFKzgiCoRDIXHa9CArYAwxa4k6mUao0GRin69RKBOufeOpK1o+szyNIT3wX3Xub7ugvVq0vnqCVt9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ERLAND\\Documents\\CODIGO\\AdventOfCode\\day04\\day04.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERLAND\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
