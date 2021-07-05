@@ -1161,5 +1161,5 @@ let result2 =
 
 [<EntryPoint>]
 let main argv =
-    printfn "%A" result2
+    printfn "el resultado es: %A" result2
     0 // return an integer exit code
